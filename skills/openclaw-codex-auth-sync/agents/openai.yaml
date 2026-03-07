@@ -1,0 +1,4 @@
+interface:
+  display_name: "OpenClaw Auth Sync"
+  short_description: "Sync OpenClaw OAuth and GPT-5.3 default"
+  default_prompt: "Use $openclaw-codex-auth-sync to sync OpenClaw OAuth from ~/.codex/auth.json and set the default model to openai-codex/gpt-5.3-codex."
