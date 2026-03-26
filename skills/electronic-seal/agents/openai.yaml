@@ -1,0 +1,4 @@
+interface:
+  display_name: "电子公章"
+  short_description: "Generate Chinese company electronic seals and stamp documents"
+  default_prompt: "帮我生成电子公章并盖章到文档"
